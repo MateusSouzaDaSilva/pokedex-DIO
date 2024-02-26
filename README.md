@@ -1,0 +1,1 @@
+Como diferencial criei uma página para mostrar o peso e a altura do pokémon, quando clica no nome do pokémon ele envia para outra página e através dos query params pega o id do pokémon e exibe suas informações
